@@ -24,7 +24,8 @@ www-test/
 /android/libs/x86/
 /android/libs/x86_64/
 /android/gen/
-.idea/
+.idea/vcs.xml
+.idea/workspace.xml
 *.ipr
 *.iws
 *.iml
@@ -126,4 +127,4 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
 
-!.idea/
+##!.idea/
