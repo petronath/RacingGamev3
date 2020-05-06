@@ -1,7 +1,8 @@
 To build G4RCE RACER:
 
 Clone or download this repository
-    Clone: 
+    Clone: If you have Git, create a folder and inside that folder right-click and select Git Bash here. In the terminal that
+    pops up, enter git clone 
     
     Download: Extract the downloaded ZIP file into a folder. Open an IDE (we used IntelliJ IDEA) and click File -> Open -> 
     select the project that is inside the folder you extracted the ZIP into.
