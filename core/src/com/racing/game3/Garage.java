@@ -35,7 +35,7 @@ public class Garage implements Screen {
 
         g.batch = new SpriteBatch();
         //used to store a textures
-        g.background = new Texture("background.png");
+        g.background = new Texture("Background.png");
         g.back = new Texture("buttons/Back.png");
         g.backOn = new Texture("buttons/BackOn.png");
         g.outline = new Texture("buttons/Outline.png");

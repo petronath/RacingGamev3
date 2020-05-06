@@ -9,8 +9,8 @@ public class DesktopLauncher {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new RacingGamev3(), config);
 		config.forceExit = false;
-		config.height = 768;
-		config.width = 1366;
+		config.height = 1000;
+		config.width = 1600;
 		//config.resizable = false;
 	}
 }
